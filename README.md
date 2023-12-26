@@ -28,3 +28,6 @@ Insights:
 Conclusion:
 
 These insights collectively suggest the need for targeted retention strategies, considering specific demographics, job roles, and salary levels to address and mitigate attrition challenges within the organization.
+
+Dashboard: HR_Analytics
+![HR_Analytics](https://github.com/SayanDasMahapatra/HR-Analytics/blob/main/HR_Analytics.png)
